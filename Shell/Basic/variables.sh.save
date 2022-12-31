@@ -1,0 +1,12 @@
+#!/bin/bash
+# Change this code
+BIRTHDATE="Jan 1,2000"
+Presents=10
+BIRTDAY=d`ate -d '20121212' +'%Y-%M-%D')
+
+
+# Testing code - do not change it
+
+echo "BIRTHDATE in days FORAMAT: $BIRTDAY "
+
+
